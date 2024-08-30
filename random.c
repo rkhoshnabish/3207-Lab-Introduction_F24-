@@ -9,7 +9,6 @@
 char ranchar(int r){
     char A = 65;
     char rand_Letter = A + r;
-    printf("%d", r);
     printf(" %c", rand_Letter);
     return rand_Letter;
 }
